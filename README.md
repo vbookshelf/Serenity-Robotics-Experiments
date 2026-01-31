@@ -5,7 +5,7 @@ Each experiment is stored in a separate folder. In the experiment folder you wil
 
 <br>
 <img src="https://github.com/vbookshelf/Serenity-Robotics-Experiments/blob/main/images/cellphone-cam-pic.jpg" width="500"></img>
-<i> Serenity-1 with computer vision</i><br>
+<i> Serenity-1 with computer vision (Exp_05)</i><br>
 <br>
 
 <br>
