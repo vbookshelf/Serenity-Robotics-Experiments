@@ -4,6 +4,11 @@ This repo contains my experiments with Serenity-1, a simple robot I built to exp
 Each experiment is stored in a separate folder. In the experiment folder you will find the Arduino and/or Python code, a wiring diagram and other relevant files. Each folder also has a readme with a short writeup.
 
 <br>
+<img src="https://github.com/vbookshelf/Serenity-Robotics-Experiments/blob/main/images/cellphone-cam-pic.jpg" width="500"></img>
+<i> Serenity-1 with computer vision</i><br>
+<br>
+
+<br>
 <img src="https://github.com/vbookshelf/Serenity-Robotics-Experiments/blob/main/images/robot-views.png" width="700"></img>
 <i>Three views of Serenity-1</i><br>
 <br>
